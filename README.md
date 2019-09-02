@@ -1,5 +1,5 @@
 # CRUD Sencillo con mongodb express & nodejs
-creado a partir del curso de [FaztWeb](https://www.youtube.com/watch?v=3J925fRl_UE)<br>
+creado del curso de [FaztWeb](https://www.youtube.com/watch?v=3J925fRl_UE)<br>
 Crud sencillo a una coleccion de notas de mongodb. 
 
 # Imagenes de la App 
